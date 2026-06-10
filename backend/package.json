@@ -1,0 +1,11 @@
+{
+  "name": "pasanaku-backend",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
